@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleTypeExtensions</key>
+	<array>
+		<string>ani</string>
+		<string>アニメ</string>
+		<string>anime</string>
+	</array>
+	<key>CFBundleTypeIconFile</key>
+	<string>doc_anime.icns</string>
+	<key>CFBundleTypeName</key>
+	<string>Anime Series</string>
+	<key>CFBundleTypeRole</key>
+	<string>Viewer</string>
+	<key>LSTypeIsPackage</key>
+	<true/>
+</dict>
+</plist>
