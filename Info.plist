@@ -8,13 +8,12 @@
 		<string>アニメ</string>
 		<string>anime</string>
 	</array>
-	<key>CFBundleTypeIconFile</key>
-	<string>doc_anime.icns</string>
 	<key>CFBundleTypeName</key>
-	<string>Anime Series</string>
+	<string>Anime video</string>
 	<key>CFBundleTypeRole</key>
 	<string>Viewer</string>
 	<key>LSTypeIsPackage</key>
 	<true/>
 </dict>
 </plist>
+
