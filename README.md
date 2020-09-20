@@ -7,6 +7,8 @@ Append `.anime` to the folder of your totally legal copy of an anime, and then a
 
 Then you would be able to simply open the package to start viewing.
 
+Recommend to merge using XCode's plist editor.
+
 ## How to use
 Merge `Info.plst` with the `Info.plist` of your favourite macOS media player.
 
@@ -14,7 +16,6 @@ Note: you may need to duplicate the app and remove `_CodeSignature` as you would
 
 ## Tested with
 - IINA.app
-- QuickTime.app
 
 # Why
 I made this at 2AM. That doesn’t explain why.
